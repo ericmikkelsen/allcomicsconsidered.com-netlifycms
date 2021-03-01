@@ -1,0 +1,9 @@
+:root {
+  --f300: 0.75rem/1.5rem;
+  --f400: 1rem/1.5rem;
+  --f500: 2rem/2.5rem;
+  --f600: 3rem/3.5rem;
+  --f700: 4rem/4.5rem;
+
+  font-family: sans-serif;
+}
